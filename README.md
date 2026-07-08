@@ -1,3 +1,4 @@
-[![Pace & Push chart](https://paceandpush.com/api/embed/Noc2/chart.svg?period=2026&units=metric&theme=light)](https://paceandpush.com/)
+[![Pace & Push chart](https://paceandpush.com/api/embed/Noc2/chart.svg?period=2026&units=metric&theme=dark)](https://paceandpush.com/)
+
 
 
